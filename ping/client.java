@@ -1,8 +1,9 @@
+//importing packages
 import java.io.*;
 import java.net.*;
 
 public class SimplePingClient {
-    public static void main(String[] args) {
+    public static void main(String[] args) {//starting point of the program
         String serverAddress = "localhost"; // Change to server IP if needed
         int port = 5000;
 
