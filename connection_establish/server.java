@@ -1,3 +1,4 @@
+//server is the receiving point and can accept connection request
 import java.io.*;
 import java.net.*;
 
