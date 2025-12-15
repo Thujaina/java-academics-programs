@@ -1,3 +1,4 @@
+// Enhanced the server by adding a counter to display how many screenshots have been transmitted
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.OutputStream;
