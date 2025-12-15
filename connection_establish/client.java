@@ -1,3 +1,4 @@
+// client is the starting point of a connection
 import java.io.*;
 import java.net.*;
 
