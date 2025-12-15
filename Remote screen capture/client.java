@@ -1,3 +1,4 @@
+// client side
 import java.awt.image.BufferedImage;
 import java.io.InputStream;
 import java.net.Socket;
